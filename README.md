@@ -4,13 +4,13 @@
 
 1. Department of Dermatology, University of Colorado Anschutz Medical Campus, Aurora,CO. 2. Illumina Corporation, San Diego, CA. 3. Bioinfo Solutions LLC, Parker, CO
 
-Background
+Background:
 To date, little is known about the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) that is at the center of the current global epidemic. (Lai et al., 2020; Shereen et al., 2020). SARS-CoV-2 belongs to a new strain of human viruses that emerged from Wuhan providence in China in December 2019. There are currently no animal studies addressing the host biology of SARS-CoV-2 infection. However, the virus does shares 79% homology to previously identified human infecting coronavirus (e.g., SARS CoV1) including binding to ACE2 receptor on susceptible cells (Lu et al., 2020; Wu et al., 2020). These observations provide the rationale for the mining of previous studies and their public available datasets on coronavirus infection to understand the current viral outbreak. 
 
-Data Collection
+Data Collection:
 BaseSpace Correlation Engine (BSCE, Illumina Inc.) was used to identify and analyze publicly accessible data from the Gene Expression Omnibus repository (GEO) (www.ncbi.nlm.nih.gov/geo/).  Relevant and curated biosets were identified by the correlation engine app using the search term “Coronavirus infection”. We focused on the host gene expression responses during viral infection because of the abundance of available published data and the potential to identify possible therapeutic interventions. We identified 39 biosets (comparisons) from 14 different studies that measured changes in global gene expression in mouse and monkey lungs collected at 1, 4 and 7 days post-infection relative to mock infection controls. A list of biosets used for this analysis can be found in an excel file. Associated experimental and study information can also be found on the second tab of the file. This sheet contains the meta-data for each time point and the first 17 columns on the text file containing the combined meta-dataset.
 
-Data Processing
+Data Processing:
 A meta-dataset was created with the BSCE app using a ranked-based gene score for each bioset and time point. The data was then downloaded from the BSCE software and further processed by a python-based algorithm that allowed the conversion of the ranked Illumina score data into positive and negative values based on the fold change. See Cheema et al. (Cheema et al., 2020) and Kupershmidt et al. (Kupershmidt et al., 2010) for further details on data processing and statistical methods used by correlation engine. 
 
 References
