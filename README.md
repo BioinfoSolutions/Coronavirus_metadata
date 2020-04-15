@@ -1,6 +1,6 @@
 # Coronavirus_metadata
 
-“Meta-analysis of SARS COV public data” by Mehdi Ahmadi1, James Flynn2, Joe Delaney2, Enrique Torchia1 and Michael Edwards3.
+“Crowdsourcing Coronavirus Data” by Mehdi Ahmadi1, James Flynn2, Joe Delaney2, Enrique Torchia1 and Michael Edwards3.
 
 1. Department of Dermatology, University of Colorado Anschutz Medical Campus, Aurora,CO. 2. Illumina Corporation, San Diego, CA. 3. Bioinfo Solutions LLC, Parker, CO
 
