@@ -1,10 +1,10 @@
 # Coronavirus_metadata
 
-[Update 11/01/2020] Files added after 10/28/2020 contain 74 biosets (comparisons) from 15 different studies that measured changes in global gene expression in mouse lungs collected at 0.5, 1, 2, 4 and 7 days post-infection relative to mock infection controls. 
-
 “Crowdsourcing Coronavirus Data” by Mehdi Ahmadi1, James Flynn2, Joe Delaney2, Enrique Torchia1 and Michael Edwards3.
 
 1. Department of Dermatology, University of Colorado Anschutz Medical Campus, Aurora,CO. 2. Illumina Corporation, San Diego, CA. 3. Bioinfo Solutions LLC, Parker, CO
+
+[Update 11/01/2020] Files added after 10/28/2020 contain 74 biosets (comparisons) from 15 different studies that measured changes in global gene expression in mouse lungs collected at 0.5, 1, 2, 4 and 7 days post-infection relative to mock infection controls. 
 
 Background:
 To date, little is known about the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) that is at the center of the current global epidemic. (Lai et al., 2020; Shereen et al., 2020). SARS-CoV-2 belongs to a new strain of human viruses that emerged from Wuhan providence in China in December 2019. There are currently no animal studies addressing the host biology of SARS-CoV-2 infection. However, the virus does shares 79% homology to previously identified human infecting coronavirus (e.g., SARS CoV1) including binding to ACE2 receptor on susceptible cells (Lu et al., 2020; Wu et al., 2020). These observations provide the rationale for the mining of previous studies and their public available datasets on coronavirus infection to understand the current viral outbreak. 
