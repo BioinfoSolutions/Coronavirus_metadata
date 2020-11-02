@@ -1,5 +1,7 @@
 # Coronavirus_metadata
 
+[Update 11/01/2020] Files added after 10/28/2020 contain 74 biosets (comparisons) from 15 different studies that measured changes in global gene expression in mouse lungs collected at 0.5, 1, 2, 4 and 7 days post-infection relative to mock infection controls. 
+
 “Crowdsourcing Coronavirus Data” by Mehdi Ahmadi1, James Flynn2, Joe Delaney2, Enrique Torchia1 and Michael Edwards3.
 
 1. Department of Dermatology, University of Colorado Anschutz Medical Campus, Aurora,CO. 2. Illumina Corporation, San Diego, CA. 3. Bioinfo Solutions LLC, Parker, CO
